@@ -9,10 +9,8 @@ public class PalindromeString {
 		int mid=(lower+str.length())/2;
 		@SuppressWarnings("unused")
 		int index=0;
-		for(int i=0;i<str.length();i++){
-			
+		for(int i=0;i<str.length();i++){	
 		}
-		
 		return false;
 		
 	}
